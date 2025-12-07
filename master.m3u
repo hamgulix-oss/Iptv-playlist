@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,My IPTV Playlist
+https://raw.githubusercontent.com/hamgulix-oss/Iptv-playlist/main/myiptv.m3u
+
+#EXTINF:-1,TV 2 Playlist
+https://raw.githubusercontent.com/hamgulix-oss/Iptv-playlist/main/tv2.m3u
