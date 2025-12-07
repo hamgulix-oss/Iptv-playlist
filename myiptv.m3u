@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,Pluto TV
+https://i.mjh.nz/PlutoTV/all.m3u8
+
+#EXTINF:-1,NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
