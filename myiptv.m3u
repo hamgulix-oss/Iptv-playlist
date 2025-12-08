@@ -6,3 +6,5 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD",ATV Avrupa (576p) [Not 24/7]
+https://streamer2.nexgen.bz/ATV/index.m3u8
