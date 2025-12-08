@@ -10,8 +10,6 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 https://streamer2.nexgen.bz/ATV/index.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:-1 tvg-id="EuroStar.tr@SD",EuroStar
-https://gknnowtv.onrender.com/eurostar.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr@SD",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr@SD",Kanal 7 (1080p) [Not 24/7]
