@@ -45,3 +45,5 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel TV (576p)
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="FlashTV.tr@SD",Flash TV (720p)
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
