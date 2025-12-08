@@ -42,6 +42,4 @@ https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD",TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel TV (576p)
-#EXTINF:-1 tvg-id="T2Movies.ir@SD",T2 Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
