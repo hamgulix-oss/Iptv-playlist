@@ -34,3 +34,6 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAROK KURMANÎ
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1,TRT 1 HD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/7b1379f9eb5c261.m3u8
