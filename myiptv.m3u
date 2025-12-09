@@ -1,4 +1,58 @@
-#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="Movies (EN)",Pluto TV Spotlight
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA (geçici geçerli)
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
+http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
+http://95.174.71.114:80/TR-TRT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",GÜNEYDOĞU TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",MERCAN TV ADIYAMAN
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAROK KURMANÎ
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",TRT KURDÎ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",WELAT TV
+http://stream.welattv.net:1935/welat/tv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",MED MUSIC
+https://iko-live.akamaized.net/MedMusicTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://bozztv.com/inim03/live1/turkfoxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://c.fulltvizle.com/fox/index.m3u8#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="Movies (EN)",Pluto TV Spotlight
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="Movies (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
