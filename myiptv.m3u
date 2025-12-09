@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="360.tr@SD",360 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="360.tr@SD",360 TV (720p) [Not 24/7] group-title="TURK KANALLARI"
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr@SD",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
@@ -18,7 +18,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL group-title="yerel"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL 
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
