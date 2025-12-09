@@ -6,3 +6,5 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
