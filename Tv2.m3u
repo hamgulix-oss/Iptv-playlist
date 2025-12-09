@@ -21,3 +21,5 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 http://95.174.71.114:80/TR-TRT1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
