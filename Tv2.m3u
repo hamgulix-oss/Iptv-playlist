@@ -23,3 +23,13 @@ http://95.174.71.114:80/TR-TRT1/index.m3u8
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 (backup)
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK (geçici geçerli)
+http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA (geçici geçerli)
+http://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D (geçici geçerli)
+http://nimplus3.bozztv.com/eurod/eurod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR (geçici geçerli)
+http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png",TV8 INT (geçici geçerli)
+http://nimplus3.bozztv.com/tv8int/tv8int/playlist.m3u8
