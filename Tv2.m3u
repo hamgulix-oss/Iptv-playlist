@@ -11,3 +11,5 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
