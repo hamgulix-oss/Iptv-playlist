@@ -1,106 +1,81 @@
-#EXTM3U
-#EXTINF:-1, TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT EBA TV Ýlkokul
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT EBA TV Ortaokul
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT EBA TV Lise
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1, KANAL D Seçenek 3
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
-#EXTINF:-1, SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
-#EXTINF:-1, STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1, FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-#EXTINF:-1, DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1, TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1, CÝNE5 TV
-https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Cine 5
-https://host.onlineradyotv.net:8081/cine5/index.m3u8
-#EXTINF:-1, Cinemidi
-https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
-#EXTINF:-1, LÝFE TV
-https://h125.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
-#EXTINF:-1, 360TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1, HABERTURK TV
-https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
-#EXTINF:-1, FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-#EXTINF:-1, TEVE 2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1, TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1, TV5
-https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
-#EXTINF:-1, KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1, TV8 ÝNT
-https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-#EXTINF:-1, TV8
-https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
-#EXTINF:-1, CNN TÜRK Seçenek 2
-https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
-#EXTINF:-1, HABERTÜRK TV Seçenek 2
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1, TÝVÝ TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1,  Kanal 24
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1, 24 Seçenek 2
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:-1, ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
-#EXTINF:-1, TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playist.m3u8
-#EXTINF:-1, H GLOBAL
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1, ÜLKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1, TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1, NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:-1, TV100
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-#EXTINF:-1, TELE 1
-https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
-#EXTINF:-1, HALK TV
-https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1, BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1, TV BEYAZ Sinema
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1, TV BEYAZ Sinema Seçenek 2
-https://cdn11-beyazmedyatv-yabanci.yayin.com.tr/beyazmedyatv-yabanci/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1, 
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:-1, TV BEYAZ Dizi
-https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TV BEYAZ Yeþilçam
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:-1, TV EM
-https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1, YANSIMA SÝNEMA HD
-https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/index.m3u8
-#EXTINF:-1, YANSIMA TV HD Seçenek 2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/index.m3u8
-#EXTINF:-1, YANSIMA CLASSÝC
+#EXTINF:-1,|TR| ENO WESTERN
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1296
+#EXTINF:-1,|TR| ENO ViZYON 15
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1297
+#EXTINF:-1,|TR| ENO ViZYON 14
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1298
+#EXTINF:-1,|TR| ENO ViZYON 13
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1299
+#EXTINF:-1,|TR| ENO ViZYON 12
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1300
+#EXTINF:-1,|TR| ENO ViZYON 11
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1301
+#EXTINF:-1,|TR| ENO ViZYON 10
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1302
+#EXTINF:-1,|TR| ENO ViZYON 9
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1303
+#EXTINF:-1,|TR| ENO ViZYON 8
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1304
+#EXTINF:-1,|TR| ENO ViZYON 7
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1305
+#EXTINF:-1,|TR| ENO ViZYON 6
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1306
+#EXTINF:-1,|TR| ENO ViZYON 5
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1307
+#EXTINF:-1,|TR| ENO ViZYON 4
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1308
+#EXTINF:-1,|TR| ENO ViZYON 3
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1309
+#EXTINF:-1,|TR| ENO ViZYON 2
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1310
+#EXTINF:-1,|TR| ENO ViZYON 1
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1311
+#EXTINF:-1,|TR| BOSS MASHA iLE KOCA AYI
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1312
+#EXTINF:-1,|TR| MOVIESINEMA AKSiYON
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1313
+#EXTINF:-1,|TR| BEIN BOX OFFiCE 3
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1314
+#EXTINF:-1,|TR| BUGS BUNNY TV
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1315
+#EXTINF:-1,|TR| SINEVIZYON NOSTALJI 3
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1316
+#EXTINF:-1,|TR| SINEVIZYON NOSTALJI 2
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1317
+#EXTINF:-1,|TR| SINEVIZYON NOSTALJI 1
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1318
+#EXTINF:-1,|TR| SINEVIZYON TURK 4
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1319
+#EXTINF:-1,|TR| SINEVIZYON TURK 3
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1320
+#EXTINF:-1,|TR| SINEVIZYON TURK 2
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1321
+#EXTINF:-1,|TR| SINEVIZYON TURK 1
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1322
+#EXTINF:-1,|TR| SINEVIZYON CEM YILMAZ
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1323
+#EXTINF:-1,|TR| |TR| SINEVIZYON 11
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1324
+#EXTINF:-1,|TR| |TR| SINEVIZYON 10
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1325
+#EXTINF:-1,|TR| |TR| SINEVIZYON 9
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1326
+#EXTINF:-1,|TR| |TR| SINEVIZYON 8
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1327
+#EXTINF:-1,|TR| |TR| SINEVIZYON 7
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1328
+#EXTINF:-1,|TR| |TR| SINEVIZYON 6
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1329
+#EXTINF:-1,|TR| |TR| SINEVIZYON 5
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1330
+#EXTINF:-1,|TR| |TR| SINEVIZYON 4
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1331
+#EXTINF:-1,|TR| |TR| SINEVIZYON 3
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1332
+#EXTINF:-1,|TR| |TR| SINEVIZYON 2
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1333
+#EXTINF:-1,|TR| |TR| SINEVIZYON 1
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1334
+#EXTINF:-1,|TR| NATIONAL GEO WiLD
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1335
+#EXTINF:-1,|TR| HiSTORY CHANNEL
