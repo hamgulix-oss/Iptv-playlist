@@ -162,4 +162,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://iko-live.akamaized.net/MedMusicTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",MEDYA HABER
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
-
+#EXTINF:-1 Yedek="http://89.187.191.41/TRT-1-HD-TR/video.m3u8" Yedek2="http://89.34.226.39:8080/live/test_acct/ohbo1veifa4AhD/507.ts" Yedek3="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" Yedek4="http://95.174.71.114/TR-TRT1/index.m3u8" Yedek5="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1643" Yedek6="https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web" Yedek7="http://185.234.111.229:8000/play/a00c" Yedek8="https://217.30.11.74/e/200.m3u8" Yedek9="http://194.76.0.61:8070/live/test_acct/ohbo1veifa4AhD/507.ts" tvg-id="TRT1 HD.tr" Yedek10="https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Ulusal",TRT1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="https://x.canlitvapp.com/a2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Belgesel",A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
